@@ -1,0 +1,6 @@
+{
+  "gitbook": ">=2.0.0",
+  "title":"linux_notebook",
+  "language":"zh-cn",
+  "description":"Linux笔记"
+}
