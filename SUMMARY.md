@@ -2,8 +2,9 @@
 
 - [Linux笔记](README.md)
 - [Linux基础](chapter01/01_00_linux_basic.md)
-  - [什么是Unix？](chapter01/01_01_unix.md)
-  - [什么是Linux？](chapter01/01_02_linux.md)
+  - [Unix和Linux](chapter01/01_01_unix_and_linux.md)
+  - [Linux杂锦](chapter01/01_02_linux_staff.md)
+  - [Linux文件系统](chapter01/01_03_linux_file_system.md)
 - [Linux命令](chapter02/02_00_linux_command.md)
   - [文件处理命令](chapter02/02_01_file_command.md)
   - [权限处理命令](chapter02/02_02_privilege_command.md)
